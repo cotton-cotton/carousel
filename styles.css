@@ -32,6 +32,7 @@ button {
 
 .dot {
 	display: flex;
+
 	justify-content: center;
 }
 .dot_align {
