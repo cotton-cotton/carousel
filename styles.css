@@ -43,3 +43,6 @@ button {
 	border-radius: 50%;
 	margin: 0px 25px;
 }
+.hidden{
+	display:none;
+}
